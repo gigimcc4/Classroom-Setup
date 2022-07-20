@@ -27,3 +27,15 @@ Now you will need to create a GitHub account. If you already have one, pleae con
 
 You will also need to download GitHub Desktop. If you use a mac make sure to look below the Window installation button for *macOS?*
 - [ ] **Fourth**, [Install GitHub Desktop](https://desktop.github.com/)
+
+### STEP THREE: 🗄️ Create a dummy repo called "MyRepo"
+
+Navigate back to your GitHub account and create your first Repository. We will pull this repository through your GitHub Desktop a little later.
+
+Repositories are like file cabiets. You can store a variety of projects in GitHub repositories, including open source projects. With open source projects, you can share code to make better, more reliable software. Read more about repositories on [GitHub docs](https://docs.github.com/en/get-started/quickstart/create-a-repo).
+
+To create a new Repository:
+  ☑️ Click the down arrow by y
+
+
+### STEP FOUR: 💾 Pull the MyRepo through GitHub Desktop
