@@ -1,4 +1,5 @@
-![]<img src="Classroom-Setup/class_setupbanner.png">
+![class_setupbanner](https://user-images.githubusercontent.com/67113310/180039250-0d6e78b3-5ceb-433d-bcd2-6937456bfaf9.png)
+
 
 # Classroom-Setup
 
