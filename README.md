@@ -13,13 +13,13 @@ So glad that you are in the *Intro to Learning Analytics* course. This is a guid
 ##  Let's get started.....
 
 
-🎬 ###  STEP ONE: INSTALL R programs
+###  🎬  STEP ONE: INSTALL R programs
 
 - [ ] **First**, [Install R](https://cran.r-project.org/)
 - [ ] **Second**, [Install R Studio Desktop](https://www.rstudio.com/products/rstudio/download/) the Free version for your operating system.
 
 
-🏁 ### STEP TWO: SIGN up for GitHub and Install GitHub Desktop
+### 🏁  STEP TWO: SIGN up for GitHub and Install GitHub Desktop
 
 Now you will need to create a GitHub account. If you already have one, pleae continue to the next step.
 
@@ -28,7 +28,7 @@ Now you will need to create a GitHub account. If you already have one, pleae con
 You will also need to download GitHub Desktop. If you use a mac make sure to look below the Window installation button for *macOS?*
 - [ ] **Fourth**, [Install GitHub Desktop](https://desktop.github.com/)
 
-🗄️ ### STEP THREE: Create a dummy repo called "MyRepo"
+### 🗄️ STEP THREE: Create a dummy repo called "MyRepo"
 
 Navigate back to your GitHub account and create your first Repository. We will pull this repository through your GitHub Desktop a little later.
 
@@ -38,4 +38,4 @@ To create a new Repository:
   ☑️ Click the down arrow by y
 
 
-💾 ### STEP FOUR: Pull the MyRepo through GitHub Desktop
+### 💾 STEP FOUR: Pull the MyRepo through GitHub Desktop
