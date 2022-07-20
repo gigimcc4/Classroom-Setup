@@ -1,3 +1,5 @@
+![](https://github.com/user/class_setupbanner.png)
+
 # Classroom-Setup
 
 So glad that you are in the *Intro to Learning Analytics* course. This is a guide for students to install R, RStudio desktop and GitHub Desktop for use with GitHub Classroom. We will be using GitHub Community and Classroom for Class instead of Moodle. There are several **steps** that will need to be followed in sequence. If you already have some of these programs please make sure they are up-to-date and move on to the one you do not. If you have all of them, then go enjoy some "Me" time!
