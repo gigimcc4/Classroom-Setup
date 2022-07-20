@@ -6,10 +6,10 @@ So glad that you are in the *Intro to Learning Analytics* course. This is a guid
 
 - [ ] **INSTALL R programs**
 - [ ] **SIGN up for GitHub and Install GitHub Desktop**
-- [ ] **Create first Repository and pull via GitHub Desktop**
-- [ ] **COnnect with the first assignment on GitHub Classroom**
+- [ ] **CREATE first Repository and pull via GitHub Desktop**
+- [ ] **CONNECT with the first assignment on GitHub Classroom**
 
-##  🤩 Let's get started.....
+##  Let's get started.....
 
 
 ### 🎬 STEP ONE: INSTALL R programs
